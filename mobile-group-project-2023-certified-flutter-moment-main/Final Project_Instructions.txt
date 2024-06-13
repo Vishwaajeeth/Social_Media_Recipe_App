@@ -1,0 +1,31 @@
+Pre-Test Message - All group members did equal work on this project, we used vs code and live sharing to work on the project together.
+Thanks!
+
+Once you make your account, you can try the account below to see a page filled with users' posts and notifications.
+
+Email: test@gmail.com
+Password: tester
+
+Instructions:
+
+1. Click Get Started and create an account, or log in with your old account
+
+2. Scroll through the home page to see all recipes, there are 3 sections, trending, explore recipes, and newly posted. Each would work how you expected with the proper filters. Each section except explore has a see-all page, so you can see all of the filtered options.  
+
+3. You can click the search bar and click one of the buttons underneath to auto-fill it. You can also type you recipe you want, in this case, try the pizza, to see all the variations there. 
+
+4. You can click on a recipe to view the full recipe detail, (it runs through an image, the total amount of people it can feed, cook time, title, description, ingredients,  instructions to make the food, and the most important part, the fully automated nutrition calculator, which uses API's, to search nutritional indexes of all ingredients and sizes, and adds them to a nice chart formatted by us). You can also bookmark recipes by clicking the top right button, and it should save to your bookmark page.
+
+5. You can go back to home by clicking the back arrow located on the top left. 
+
+6. The bookmark page can be accessed by clicking the bookmark button. All bookmarks are saved locally so you do not need to worry about a user removing or not having a recipe later on. Each user on their phone has their local recipe bookmarks.
+
+7. You can add a new recipe by clicking the + button in the middle of the nav bar. Fill out all the information, and this all compresses the image and formatted everything so it looks nice and works properly on the app.
+
+8. A pop-up shows up when a recipe has been added to the cloud. A push notification should also show up, as well as a history of notifications on the notification page.
+
+9. You can also check the notification by clicking the bell icon; which is the notification page. You can delete all the notifications by clicking the trash icon. 
+
+10. You can check the profile by clicking the profile icon on the nav bar. Profile photos can be edited, and all posts can be seen by the user. On the top right, there is a button that shows a data table to see a quick rundown of posts and their save count; Save counts are done behind the scenes, whenever a user saves a post, that specific post gets a +1 to the save count and is saved on the cloud, if a user unsaves the post, there is a -1 and it saves on the cloud.
+
+11. Login is fully authenticated and encrypted by Firebase
